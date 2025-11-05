@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+opencv-python
+numpy
+tensorflow
+joblib
+python-multipart
+requests
